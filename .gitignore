@@ -1,0 +1,10 @@
+.DS_Store
+
+train_features_pca.csv
+train_dataset.pkl
+test_features_pca.csv
+test_dataset.pkl
+model.pth
+under_model.pth
+mlp_100_pca.h5
+hypothesis_features.csv
